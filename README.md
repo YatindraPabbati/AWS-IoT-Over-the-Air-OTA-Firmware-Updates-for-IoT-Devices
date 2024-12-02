@@ -98,4 +98,4 @@ After the update completes:
 ---
 
 ### Final Notes:
-This guide provides detailed instructions for setting up the AWS IoT environment, creating an OTA job, uploading firmware to S3, and validating the update. By following these steps, you will be able to implement OTA updates for your IoT devices using AWS IoT Core and S3.
+This guide provides detailed instructions for setting up the AWS IoT environment, creating an OTA job, uploading firmware to S3, and validating the update. By following these steps, you will be able to implement OTA updates for your IoT devices using AWS IoT Core and S3. The project emulates an IoT device with the help of a python script. The same project can be implemented directly using an IoT device too.
