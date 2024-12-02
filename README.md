@@ -3,7 +3,7 @@
 ### Project Summary:
 This project enables over-the-air (OTA) firmware updates for IoT devices using AWS services, specifically AWS IoT Core and S3. The guide walks through the setup of AWS IoT Core for device management, the configuration of an S3 bucket to host firmware files, and the creation of a job to push firmware updates to IoT devices. It also includes steps for monitoring the update process and validating the firmware update.
 
-![image](https://github.com/user-attachments/assets/f66d9a06-3190-49b2-8026-a92d40921007)
+![Group 73](https://github.com/user-attachments/assets/c6823a8c-c044-411c-9e34-3d65ec5f1982)
 
 (image credit: AWS)
 ---
