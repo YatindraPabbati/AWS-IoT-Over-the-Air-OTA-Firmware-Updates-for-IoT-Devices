@@ -1,0 +1,14 @@
+{
+    "version": "1.2",
+    "deviceModel": "ESP32-DummyDevice",
+    "checksum": "b94d27b9934d3e08a52e52d7da7dabfa",
+    "operation": "install",
+    "s3Url": "https://iot-dummy-ota-bucket.s3.amazonaws.com/DummyFirmware-v1.2.bin",
+    "reboot": true,
+    "fileSize": "1.2MB",
+    "fileType": "bin",
+    "signature": "3045022100b8f46c59d1b5e98d5f569f7cf...",
+    "encryptionKey": "dummy-encryption-key",
+    "releaseNotes": "Bug fixes and performance improvements.",
+    "timestamp": "2024-11-30T12:00:00Z"
+}
